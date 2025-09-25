@@ -11,6 +11,7 @@ the entire game is written in Rust
 testversion1:
 
 1. присутствует графический интерфейс(GUI)
+
 2.есть небольшая стабильная регистрация
 
 вся игра написана на Rust
